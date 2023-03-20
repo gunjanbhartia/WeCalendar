@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --font-inter: Inter;
+  --font-atma: Atma;
+  --font-atomic-age: "Atomic Age";
+
+  /* font sizes */
+  --font-size-lg: 18px;
+  --font-size-base: 16px;
+  --font-size-36xl: 55px;
+  --font-size-sm: 14px;
+  --font-size-9xl: 28px;
+  --font-size-41xl: 60px;
+  --font-size-5xl: 24px;
+  --font-size-xl: 20px;
+  --font-size-3xs: 10px;
+  --font-size-5xs: 8px;
+  --font-size-xs: 12px;
+  --font-size-lgi: 19px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-thistle: #c9add3;
+  --color-purple: #70178f;
+  --color-midnightblue-100: #320b65;
+  --color-midnightblue-200: #171043;
+  --stroke: #d5d4df;
+  --color-darkgray-100: #999;
+  --color-gray-100: #fefefe;
+  --color-gray-200: #847f7f;
+  --color-gray-300: #210404;
+  --color-gray-400: #030000;
+  --color-gray-500: rgba(0, 0, 0, 0.5);
+  --color-red-100: #ff0505;
+  --color-red-200: #f60808;
+  --color-red-300: #ff0000;
+  --color-black: #000;
+  --color-darkslategray: #494343;
+  --color-lavender-100: #f7e9ff;
+  --inactive: #f2f3f7;
+  --color-whitesmoke-100: #f5f0f0;
+  --color-snow-100: #fff8f8;
+  --color-plum: #c68fe0;
+  --color-silver: #bbb;
+  --color-yellow: #fff500;
+
+  /* Gaps */
+  --gap-3xs: 10px;
+  --gap-xl: 20px;
+
+  /* Paddings */
+  --padding-xl: 20px;
+  --padding-3xl: 22px;
+  --padding-3xs: 10px;
+
+  /* border radiuses */
+  --br-5xs: 8px;
+  --br-15xl: 34px;
+  --br-8xl: 27px;
+  --br-31xl: 50px;
+  --br-11xl: 30px;
+  --br-mid: 17px;
+  --br-7xs: 6px;
+}

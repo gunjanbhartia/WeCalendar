@@ -1,0 +1,98 @@
+.abstract-geometric-background- {
+  position: absolute;
+  top: 55px;
+  left: 143px;
+  width: 150px;
+  height: 180px;
+  mix-blend-mode: overlay;
+}
+.wecalendar7 {
+  position: absolute;
+  top: 0;
+  left: -4.17%;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 2px rgba(0, 0, 0, 0.1);
+  mix-blend-mode: normal;
+}
+.wecalendar6 {
+  position: absolute;
+  top: 106px;
+  left: 58px;
+  width: 288px;
+  height: 88px;
+  font-size: var(--font-size-36xl);
+  color: var(--color-midnightblue-100);
+  font-family: var(--font-atma);
+}
+.icon,
+.image-2-icon3 {
+  position: absolute;
+  top: 63px;
+  left: 176px;
+  width: 53px;
+  height: 43px;
+  object-fit: cover;
+}
+.icon {
+  top: 181px;
+  left: 0;
+  width: 470px;
+  height: 353px;
+}
+.home-child {
+  position: absolute;
+  top: 647px;
+  left: 112px;
+  width: 84px;
+  height: 40px;
+}
+.login {
+  position: absolute;
+  top: 656px;
+  left: 129px;
+  text-align: left;
+  cursor: pointer;
+}
+.home-item {
+  position: absolute;
+  top: 647px;
+  left: 204px;
+  width: 84px;
+  height: 40px;
+}
+.signup {
+  position: absolute;
+  top: 656px;
+  left: 216px;
+  text-align: left;
+  cursor: pointer;
+}
+.your-insight-to {
+  position: absolute;
+  top: 549px;
+  left: 62px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  color: var(--color-black);
+  width: 280px;
+  height: 158px;
+}
+.doc1-page-0001-1-icon1 {
+  position: absolute;
+  top: 687px;
+  left: 0;
+  width: 390px;
+  height: 157px;
+  object-fit: cover;
+}
+.home1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
